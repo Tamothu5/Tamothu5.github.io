@@ -7,4 +7,4 @@ I am a Computer Engineering student at Boise State University. I am especially i
 Interests:
 Video Games,
 Working Out,
-Watch Collecting, 
+Watch Collecting 
